@@ -27,7 +27,7 @@ export default function Home() {
   }
   return (
     <>
-      <div className="min-h-screen w-screen text-black bg-gray-200 font-sans overflow-hidden">
+      <div className="min-h-screen min-w-screen text-black bg-gray-200 font-sans overflow-hidden">
         <nav>
           <div className='text-black fixed w-screen flex justify-center items-center'>
             <div style={{'border':'1px solid white'}} className='flex justify-between w-[95%] px-8 py-2 mt-6 rounded-full backdrop-blur-md backdrop-filter'>
