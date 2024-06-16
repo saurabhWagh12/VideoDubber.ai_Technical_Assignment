@@ -119,7 +119,6 @@ export default function Home() {
 
         </nav>
 
-        {/* <Navbar/> */}
 
         <h1 className="text-center font-bold text-4xl lg:text-7xl mt-40 ">GREAT VIDEOS START WITH A PLAN</h1>
         <h2 className="text-center pt-4 pb-2 text-2xl font-light">Try VEED with our <a className="text-indigo-500 font-light underline">Free Plan</a></h2>
