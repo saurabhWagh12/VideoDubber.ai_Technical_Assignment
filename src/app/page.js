@@ -1,7 +1,6 @@
 'use client'
 import React, { useState } from 'react';
 import Menu from './components/Menu';
-import Navbar from "./components/Navbar";
 import './styles.css';
 import Cards from "./components/Cards";
 import TrustedBy from "./components/TrustedBy";
